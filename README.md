@@ -6,6 +6,7 @@ Los cupones de descuento han sido configurados como objetos con las propiedades 
 
 Para filtrar el cupón que coincide con el ingresado por el usuario se ha utilizado el método FILTER( ) (línea 96 de archivo JavaScript)
 
-Mira la demo aquí: https://raulsr92.github.io/Calculadora3-JavaScript-Find-method/index3.html
+Mira la demo aquí: https://raulsr92.github.io/Calculadora2-JavaScript-Filter-method/index3.html
+
 
 
